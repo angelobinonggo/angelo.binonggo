@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm <strong>Angelo Binonggo</strong> 👋</h1>
+<h1 align="center">Hi, I'm <strong>Angelo Binonggo</strong> ✨ </h1>
 <p align="center">BSIT Student • Future Software Engineer • Mobile & Web Developer</p>
 
 <p align="center">
