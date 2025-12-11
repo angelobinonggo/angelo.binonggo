@@ -12,7 +12,7 @@
 I'm **Angelo**, a passionate **BSIT student at USTP-CDO** and a future **Software Engineer**.  
 I build mobile apps, web systems, and backend APIs — focusing on clean UI, efficiency, and real-world functionality.
 
-- 🚀 Vice President – **SITE (Society of IT Enthusiasts)**  
+- 🚀 President – **SITE (Society of Information Technology Enthusiasts)**  
 - 💼 IT Ambassador – **GDG on Campus**  
 - 👨‍🏫 Mentor – **Programmers' Varsity**  
 - 📱 Mobile Developer (React Native + Expo)  
