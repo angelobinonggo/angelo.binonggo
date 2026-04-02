@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm <strong>Angelo Binonggo</strong> ✨ </h1>
+<h1 align="center">Hi, I'm <strong>Angelo Binonggo</strong>  </h1>
 <p align="center">BSIT Student • Future Software Engineer • Mobile & Web Developer</p>
 
 <p align="center">
@@ -8,21 +8,21 @@
 
 ---
 
-## 🌌 About Me  
+## About Me  
 I'm **Angelo**, a passionate **BSIT student at USTP-CDO** and a future **Software Engineer**.  
 I build mobile apps, web systems, and backend APIs — focusing on clean UI, efficiency, and real-world functionality.
 
-- 🚀 President – **SITE (Society of Information Technology Enthusiasts)**  
-- 💼 IT Ambassador – **GDG on Campus**  
-- 👨‍🏫 Mentor – **Programmers' Varsity**  
-- 📱 Mobile Developer (React Native + Expo)  
-- 🌐 Web Developer (React + PHP + MySQL)  
+- President – **SITE (Society of Information Technology Enthusiasts)**  
+- IT Ambassador – **GDG on Campus**  
+- Mentor – **Programmers' Varsity**  
+- Mobile Developer (React Native + Expo)  
+- Web Developer (React + PHP + MySQL)  
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🚀 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -46,7 +46,7 @@ I build mobile apps, web systems, and backend APIs — focusing on clean UI, eff
   <img src="https://img.shields.io/badge/Matlab-%23E16737?style=flat-square&logo=matlab&logoColor=white" />
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
@@ -94,7 +94,7 @@ I build mobile apps, web systems, and backend APIs — focusing on clean UI, eff
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-### 🛠 Tools
+### Tools
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -120,17 +120,17 @@ I build mobile apps, web systems, and backend APIs — focusing on clean UI, eff
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔹 **USTP Student Attendance Monitoring System**
+### **USTP Student Attendance Monitoring System**
 > React + Tailwind + PHP + MySQL  
 A digital system with role-based dashboards (Admin, Instructor, Student).
 
-### 🔹 **Pet Services Appointment System**
+### **Pet Services Appointment System**
 > Java (OOP) + XAMPP  
 Employee-focused appointment management system.
 
-### 🔹 **Sabrosa Mobile App**
+### **Sabrosa Mobile App**
 > React Native + Expo  
 Mobile UI, settings, terms & policies pages, token storage, and secure login.
 
@@ -149,14 +149,14 @@ Mobile UI, settings, terms & policies pages, token storage, and secure login.
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=angelobinonggo&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://facebook.com/angelobinonggo"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://instagram.com/angelobinonggo"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -166,4 +166,4 @@ Mobile UI, settings, terms & policies pages, token storage, and secure login.
 
 ---
 
-<p align="center">⭐ If you like my projects, feel free to star my repositories!</p>
+<p align="center"> If you like my projects, feel free to star my repositories!</p>
