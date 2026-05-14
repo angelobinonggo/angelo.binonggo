@@ -49,7 +49,7 @@ with a focus on simplicity, usability, and real-world impact.
 
 - 🏛 President — **SITE (Society of Information Technology Enthusiasts)**
 - 🌐 IT Ambassador — **GDG on Campus**
-- 👨‍🏫 Mentor — **Programmers' Varsity**
+- 👨‍🏫 Founding President — **USTP Innovation Club**
 - 📱 Mobile Developer — React Native + Expo
 - 💻 Web Developer — React + PHP + MySQL
 
